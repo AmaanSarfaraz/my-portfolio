@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AmaanSarfaraz/my-portfolio.git/static/css/main.7efd187b.css",
-    "main.js": "/AmaanSarfaraz/my-portfolio.git/static/js/main.1f8d1508.js",
-    "static/media/admin_about.png": "/AmaanSarfaraz/my-portfolio.git/static/media/admin_about.1caa7cd8458a1db1ab8a.png",
-    "static/media/me.png": "/AmaanSarfaraz/my-portfolio.git/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/portfolio5.png": "/AmaanSarfaraz/my-portfolio.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/AmaanSarfaraz/my-portfolio.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/AmaanSarfaraz/my-portfolio.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/AmaanSarfaraz/my-portfolio.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/AmaanSarfaraz/my-portfolio.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/Resume.pdf": "/AmaanSarfaraz/my-portfolio.git/static/media/Resume.7d94c35d11c8c1536f09.pdf",
-    "static/media/portfolio4.jpg": "/AmaanSarfaraz/my-portfolio.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/AmaanSarfaraz/my-portfolio.git/index.html",
-    "main.7efd187b.css.map": "/AmaanSarfaraz/my-portfolio.git/static/css/main.7efd187b.css.map",
-    "main.1f8d1508.js.map": "/AmaanSarfaraz/my-portfolio.git/static/js/main.1f8d1508.js.map"
+    "main.css": "/my-portfolio/static/css/main.4e10a47a.css",
+    "main.js": "/my-portfolio/static/js/main.c1d997a6.js",
+    "static/media/admin_about.png": "/my-portfolio/static/media/admin_about.4b9b053cbfabdc0234dc.png",
+    "static/media/admin2.png": "/my-portfolio/static/media/admin2.a40ed497f4a30d4fc119.png",
+    "static/media/nuno.png": "/my-portfolio/static/media/nuno.50748a680a130f8f184b.png",
+    "static/media/hotel.png": "/my-portfolio/static/media/hotel.df38e697a8cadc4b33e2.png",
+    "static/media/cara.png": "/my-portfolio/static/media/cara.34d354dc6b2eb8ea2a28.png",
+    "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.73c2decf555603386c3c.png",
+    "static/media/gpt.png": "/my-portfolio/static/media/gpt.8a0c47a84d505762cf86.png",
+    "static/media/weather.png": "/my-portfolio/static/media/weather.fb397cef16ea0221a43b.png",
+    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.7d94c35d11c8c1536f09.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.4e10a47a.css.map": "/my-portfolio/static/css/main.4e10a47a.css.map",
+    "main.c1d997a6.js.map": "/my-portfolio/static/js/main.c1d997a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7efd187b.css",
-    "static/js/main.1f8d1508.js"
+    "static/css/main.4e10a47a.css",
+    "static/js/main.c1d997a6.js"
   ]
 }
